@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  height: 100%;
+  padding: 15px;
+  background-color: rgba(0, 0, 255, 0.423);
+}
+html , body{
+  height: 100%;;
+}
