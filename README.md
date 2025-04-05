@@ -13,8 +13,9 @@ A simple and responsive **Recipe Finder** built with **React**, using the **Spoo
 
 ## 📸 Demo
 
-![Demo Screenshot](demo.png)  
-*(Add a real screenshot of your app here)*
+![Screenshot (91)](https://github.com/user-attachments/assets/c0ffc2c3-2660-4493-8397-9c619b98e294)
+
+
 
 ## 🛠️ Tech Stack
 
