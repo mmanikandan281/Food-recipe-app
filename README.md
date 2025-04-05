@@ -29,7 +29,7 @@ A simple and responsive **Recipe Finder** built with **React**, using the **Spoo
 1. **Clone the repository**
    ```bash
    https://github.com/mmanikandan281/Food-recipe-app.git
-   cd recipe-finder
+   cd Food-recipe-app
    ```
 
 2. **Install dependencies**
