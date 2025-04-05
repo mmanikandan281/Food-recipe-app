@@ -1,8 +1,4 @@
-Here's a `README.md` file for your **Recipe Finder** app using React. It explains setup, features, and project structure — perfect for a GitHub repo:
 
----
-
-```markdown
 # 🍽️ Recipe Finder App
 
 A simple and responsive **Recipe Finder** built with **React**, using the **Spoonacular API**. Users can search for recipes, view search results, and add their favorite recipes to a persistent favorites list using `localStorage`.
@@ -96,8 +92,5 @@ MIT License. Feel free to fork and customize!
 ---
 
 Made with ❤️ by Manikandan M
-```
-
----
 
 Let me know if you'd like it tailored for deployment (like adding `gh-pages` or Vercel info), or if you want a `package.json` sample too.
