@@ -22,26 +22,12 @@ A simple and responsive **Recipe Finder** built with **React**, using the **Spoo
 - **Styling**: CSS
 - **API**: [Spoonacular Recipe API](https://spoonacular.com/food-api)
 
-## 🧱 Project Structure
-
-```
-src/
-├── components/
-│   ├── search.jsx        # Search input component
-│   ├── display.jsx       # Displays recipe result cards
-│   └── fav.jsx           # Displays favorite items
-├── pages/
-│   └── Homepage.jsx      # Main homepage component
-├── App.js
-├── index.js
-└── style.css             # Styling for homepage
-```
 
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/recipe-finder.git
+   https://github.com/mmanikandan281/Food-recipe-app.git
    cd recipe-finder
    ```
 
